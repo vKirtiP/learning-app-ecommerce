@@ -2,8 +2,9 @@
 
 This is a sample e-commerce application built for learning purposes.
 
+A shell script in the name of deploy-ecommerce-application.sh is written which will automate the whole process which is mentioned belown.
 
-Automating the whole deployment process of this sample project on CentOS systems:
+This will be deployed on CentOS systems:
 
 ## Deploy Pre-Requisites
 
